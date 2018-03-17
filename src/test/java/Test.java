@@ -24,7 +24,7 @@ public class Test {
     }
     @org.junit.Test
     public void test_06_测试6() throws Exception{
-        System.out.println("6666新增的4444");
+        System.out.println("6666新增的444433333");
     }
 
 }
